@@ -127,11 +127,15 @@ h5{
 }
 
 .address{
-    font-style: normal;
+    font-style:normal;
     font-size:0.8em;
 }
 
 .footer a{
     color: rgb(67,163,230);
     text-decoration:none;
+}
+
+.footer ul{
+    list-style: none;
 }
